@@ -1,0 +1,33 @@
+Examining input file 'sk01_video.264' ...
+==> Title: (none)
+==> Chapters: no
+==> Attachments: 0
+Examining input file 'sk01_audio.flac' ...
+==> Title: (none)
+==> Chapters: no
+==> Attachments: 0
+Examining input file 'sk01_subtitles.ass' ...
+==> Title: (none)
+==> Chapters: no
+==> Attachments: 0
+Track information follows ...
+---- Video track (TID:  0) ----------------------------------------------------
+Codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+Profile: High 10
+Dimensions: 1920 x 1080
+Frame rate: 48000 / 1001
+---- Audio track (TID:  1) ----------------------------------------------------
+Codec: FLAC (Free Lossless Audio Codec)
+Channels: stereo
+Sample rate: 48000 Hz
+---- Subtitle track (TID:  2) -------------------------------------------------
+Codec: ASS (Advanced SSA) subtitle
+-------------------------------------------------------------------------------
+Beginning process at Fri Oct 24 16:44:53 2025 ...
+Created work directory: /tmp/reanimate-gq24jgfu
+Transcoding video track (TID: 0) ...
+Transcoding audio track (TID: 1) @ 128kbps ...
+Extracted subtitle track (TID: 2) ...
+Writing output ...
+Finished! Process took 1 hours, 9 minutes, and 55 seconds.
+Size difference: 230.7 MiB / 810.2 MiB = 0.285

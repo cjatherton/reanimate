@@ -1,0 +1,2 @@
+#!/bin/sh
+reanimate -k -a "Roboto-Medium.ttf" -l ja ja en -T "Spy Kyoushitsu (1)" -L en ja --title "Spy Classroom" "スパイ教室" --episode 1 --episode-title "Mission: Flower Garden I" "MISSION 《花園》I" --episode-total 24 --studio "Feel" "Feel" --director "Keiichiro Kawaguchi" "川口敬一郎" --screenplay "Shinichi Inotsume" "猪爪慎一" --release-date 2023  1  5 --subber "SubsPlease" -- sk01_video.264 sk01_audio.flac sk01_subtitles.ass "[SubsPlease] Spy Kyoushitsu (1) [XXXXXXXX].mkv"

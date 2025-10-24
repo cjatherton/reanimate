@@ -1,0 +1,479 @@
+Examining input file '[ANE] Kara no Kyoukai - 1 - Overlooking View [BDRip 1080p x264 FLAC].mkv' ...
+==> Title: (none)
+==> Chapters: no
+==> Attachments: 15
+Track information follows ...
+---- Video track (TID:  0) ----------------------------------------------------
+Language: eng
+Codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+Profile: High
+Dimensions: 1920 x 1080
+Frame rate: 24000 / 1001
+---- Audio track (TID:  1) ----------------------------------------------------
+Language: jpn
+Codec: FLAC (Free Lossless Audio Codec)
+Channels: 5.1(side)
+Sample rate: 48000 Hz
+---- Subtitle track (TID:  2) -------------------------------------------------
+Name: Pretentious
+Language: eng
+Codec: ASS (Advanced SSA) subtitle
+-------------------------------------------------------------------------------
+Beginning process at Wed Oct 22 23:54:29 2025 ...
+Created work directory: /tmp/reanimate-lfqj0rqa
+Transcoding video track (TID: 0) ...
+Transcoding (stereo downmixing) audio track (TID: 1) @ 128kbps ...
+Extracted subtitle track (TID: 2) ...
+Writing output ...
+Finished! Process took 1 hours, 18 minutes, and 32 seconds.
+Size difference: 520.4 MiB / 4764.9 MiB = 0.109
+Examining input file '[ANE] Kara no Kyoukai - 2 - Murder Speculation (Part A) [BDRip 1080p x264 FLAC].mkv' ...
+==> Title: (none)
+==> Chapters: no
+==> Attachments: 15
+Track information follows ...
+---- Video track (TID:  0) ----------------------------------------------------
+Language: eng
+Codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+Profile: High
+Dimensions: 1920 x 1080
+Frame rate: 24000 / 1001
+---- Audio track (TID:  1) ----------------------------------------------------
+Language: jpn
+Codec: FLAC (Free Lossless Audio Codec)
+Channels: 5.1(side)
+Sample rate: 48000 Hz
+---- Subtitle track (TID:  2) -------------------------------------------------
+Name: Pretentious
+Language: eng
+Codec: ASS (Advanced SSA) subtitle
+-------------------------------------------------------------------------------
+Beginning process at Thu Oct 23 01:13:02 2025 ...
+Created work directory: /tmp/reanimate-lsdqqn6_
+Transcoding video track (TID: 0) ...
+Transcoding (stereo downmixing) audio track (TID: 1) @ 128kbps ...
+Extracted subtitle track (TID: 2) ...
+Writing output ...
+Finished! Process took 1 hours, 27 minutes, and 54 seconds.
+Size difference: 684.9 MiB / 5752.8 MiB = 0.119
+Examining input file '[ANE] Kara no Kyoukai - 3 - Remaining Sense of Pain [BDRip 1080p x264 FLAC].mkv' ...
+==> Title: (none)
+==> Chapters: no
+==> Attachments: 15
+Track information follows ...
+---- Video track (TID:  0) ----------------------------------------------------
+Language: eng
+Codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+Profile: High
+Dimensions: 1920 x 1080
+Frame rate: 24000 / 1001
+---- Audio track (TID:  1) ----------------------------------------------------
+Language: jpn
+Codec: FLAC (Free Lossless Audio Codec)
+Channels: 5.1(side)
+Sample rate: 48000 Hz
+---- Subtitle track (TID:  2) -------------------------------------------------
+Name: Pretentious
+Language: eng
+Codec: ASS (Advanced SSA) subtitle
+-------------------------------------------------------------------------------
+Beginning process at Thu Oct 23 02:40:56 2025 ...
+Created work directory: /tmp/reanimate-70hr3vaa
+Transcoding video track (TID: 0) ...
+Transcoding (stereo downmixing) audio track (TID: 1) @ 128kbps ...
+Extracted subtitle track (TID: 2) ...
+Writing output ...
+Finished! Process took 1 hours, 59 minutes, and 33 seconds.
+Size difference: 811.7 MiB / 6470.2 MiB = 0.125
+Examining input file '[ANE] Kara no Kyoukai - 4v0 - The Hollow Shrine [BDRip 1080p x264 FLAC].mkv' ...
+==> Title: (none)
+==> Chapters: no
+==> Attachments: 16
+Track information follows ...
+---- Video track (TID:  0) ----------------------------------------------------
+Language: eng
+Codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+Profile: High
+Dimensions: 1920 x 1080
+Frame rate: 24000 / 1001
+---- Audio track (TID:  1) ----------------------------------------------------
+Language: jpn
+Codec: FLAC (Free Lossless Audio Codec)
+Channels: 5.1(side)
+Sample rate: 48000 Hz
+---- Subtitle track (TID:  2) -------------------------------------------------
+Name: Styled Subs [gg-TakaJun]
+Language: eng
+Codec: ASS (Advanced SSA) subtitle
+---- Subtitle track (TID:  3) -------------------------------------------------
+Name: Styled Subs [Retail]
+Language: eng
+Codec: ASS (Advanced SSA) subtitle
+-------------------------------------------------------------------------------
+Beginning process at Thu Oct 23 04:40:29 2025 ...
+Created work directory: /tmp/reanimate-xb0vq6wy
+Transcoding video track (TID: 0) ...
+Transcoding (stereo downmixing) audio track (TID: 1) @ 128kbps ...
+Extracted subtitle track (TID: 2) ...
+Extracted subtitle track (TID: 3) ...
+Writing output ...
+Finished! Process took 1 hours, 37 minutes, and 9 seconds.
+Size difference: 564.2 MiB / 4565.4 MiB = 0.124
+Examining input file '[ANE] Kara no Kyoukai - 5v0 - Paradox Paradigm [BDRip 1080p x264 FLAC].mkv' ...
+==> Title: (none)
+==> Chapters: no
+==> Attachments: 18
+Track information follows ...
+---- Video track (TID:  0) ----------------------------------------------------
+Language: eng
+Codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+Profile: High
+Dimensions: 1920 x 1080
+Frame rate: 24000 / 1001
+---- Audio track (TID:  1) ----------------------------------------------------
+Language: jpn
+Codec: FLAC (Free Lossless Audio Codec)
+Channels: 5.1(side)
+Sample rate: 48000 Hz
+---- Subtitle track (TID:  2) -------------------------------------------------
+Name: Styled Subs [gg-TakaJun]
+Language: eng
+Codec: ASS (Advanced SSA) subtitle
+---- Subtitle track (TID:  3) -------------------------------------------------
+Name: Styled Subs [Retail]
+Language: eng
+Codec: ASS (Advanced SSA) subtitle
+-------------------------------------------------------------------------------
+Beginning process at Thu Oct 23 06:17:38 2025 ...
+Created work directory: /tmp/reanimate-582858_b
+Transcoding video track (TID: 0) ...
+Transcoding (stereo downmixing) audio track (TID: 1) @ 128kbps ...
+Extracted subtitle track (TID: 2) ...
+Extracted subtitle track (TID: 3) ...
+Writing output ...
+Finished! Process took 6 hours, 24 minutes, and 2 seconds.
+Size difference: 4856.2 MiB / 21326.6 MiB = 0.228
+Examining input file '[ANE] Kara no Kyoukai - 6 - Oblivion Recording [BDRip 1080p x264 FLAC].mkv' ...
+==> Title: (none)
+==> Chapters: no
+==> Attachments: 15
+Track information follows ...
+---- Video track (TID:  0) ----------------------------------------------------
+Language: eng
+Codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+Profile: High
+Dimensions: 1920 x 1080
+Frame rate: 24000 / 1001
+---- Audio track (TID:  1) ----------------------------------------------------
+Language: jpn
+Codec: FLAC (Free Lossless Audio Codec)
+Channels: 5.1(side)
+Sample rate: 48000 Hz
+---- Subtitle track (TID:  2) -------------------------------------------------
+Name: Pretentious
+Language: eng
+Codec: ASS (Advanced SSA) subtitle
+-------------------------------------------------------------------------------
+Beginning process at Thu Oct 23 12:41:41 2025 ...
+Created work directory: /tmp/reanimate-ryo0lzoe
+Transcoding video track (TID: 0) ...
+Transcoding (stereo downmixing) audio track (TID: 1) @ 128kbps ...
+Extracted subtitle track (TID: 2) ...
+Writing output ...
+Finished! Process took 2 hours, 4 minutes, and 57 seconds.
+Size difference: 732.4 MiB / 6128.4 MiB = 0.120
+Examining input file '[ANE] Kara no Kyoukai - 7v0 - Murder Speculation (Part B) [BDRip 1080p x264 FLAC].mkv' ...
+==> Title: (none)
+==> Chapters: no
+==> Attachments: 16
+Track information follows ...
+---- Video track (TID:  0) ----------------------------------------------------
+Language: eng
+Codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+Profile: High
+Dimensions: 1920 x 1080
+Frame rate: 24000 / 1001
+---- Audio track (TID:  1) ----------------------------------------------------
+Language: jpn
+Codec: FLAC (Free Lossless Audio Codec)
+Channels: 5.1(side)
+Sample rate: 48000 Hz
+---- Subtitle track (TID:  2) -------------------------------------------------
+Name: Styled Subs [gg-TakaJun]
+Language: eng
+Codec: ASS (Advanced SSA) subtitle
+---- Subtitle track (TID:  3) -------------------------------------------------
+Name: Styled Subs [Retail]
+Language: eng
+Codec: ASS (Advanced SSA) subtitle
+-------------------------------------------------------------------------------
+Beginning process at Thu Oct 23 14:46:38 2025 ...
+Created work directory: /tmp/reanimate-spi_2krv
+Transcoding video track (TID: 0) ...
+Transcoding (stereo downmixing) audio track (TID: 1) @ 128kbps ...
+Extracted subtitle track (TID: 2) ...
+Extracted subtitle track (TID: 3) ...
+Writing output ...
+Finished! Process took 4 hours, 39 minutes, and 50 seconds.
+Size difference: 1386.3 MiB / 17815.2 MiB = 0.078
+Examining input file '[ANE] Kara no Kyoukai - Epilogue [BDRip 1080p x264 FLAC].mkv' ...
+==> Title: (none)
+==> Chapters: no
+==> Attachments: 1
+Track information follows ...
+---- Video track (TID:  0) ----------------------------------------------------
+Language: eng
+Codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+Profile: High
+Dimensions: 1920 x 1080
+Frame rate: 24000 / 1001
+---- Audio track (TID:  1) ----------------------------------------------------
+Language: jpn
+Codec: FLAC (Free Lossless Audio Codec)
+Channels: 5.1(side)
+Sample rate: 48000 Hz
+---- Subtitle track (TID:  2) -------------------------------------------------
+Name: 66
+Language: eng
+Codec: ASS (Advanced SSA) subtitle
+-------------------------------------------------------------------------------
+Beginning process at Thu Oct 23 19:26:28 2025 ...
+Created work directory: /tmp/reanimate-0lh_lm8m
+Transcoding video track (TID: 0) ...
+Transcoding (stereo downmixing) audio track (TID: 1) @ 128kbps ...
+Extracted subtitle track (TID: 2) ...
+Writing output ...
+Finished! Process took 2 hours, 32 minutes, and 43 seconds.
+Size difference: 964.7 MiB / 4961.4 MiB = 0.194
+Examining input file '[ANE] Kara no Kyoukai - Remix v0 - Gate of Seventh Heaven [BDRip 1080p x264 FLAC].mkv' ...
+==> Title: (none)
+==> Chapters: no
+==> Attachments: 4
+Track information follows ...
+---- Video track (TID:  0) ----------------------------------------------------
+Language: eng
+Codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+Profile: High
+Dimensions: 1920 x 1080
+Frame rate: 24000 / 1001
+---- Audio track (TID:  1) ----------------------------------------------------
+Language: jpn
+Codec: FLAC (Free Lossless Audio Codec)
+Channels: 5.1(side)
+Sample rate: 48000 Hz
+---- Subtitle track (TID:  2) -------------------------------------------------
+Name: Styled Subs [Retail]
+Language: eng
+Codec: ASS (Advanced SSA) subtitle
+-------------------------------------------------------------------------------
+Beginning process at Thu Oct 23 21:59:11 2025 ...
+Created work directory: /tmp/reanimate-k77nt87w
+Transcoding video track (TID: 0) ...
+Transcoding (stereo downmixing) audio track (TID: 1) @ 128kbps ...
+Extracted subtitle track (TID: 2) ...
+Writing output ...
+Finished! Process took 5 hours, 17 minutes, and 35 seconds.
+Size difference: 1379.0 MiB / 9031.2 MiB = 0.153
+Examining input file '[ANE] Kara no Kyoukai - Cinema Intro 1 [BDRip 1080p x264 FLAC].mkv' ...
+==> Title: (none)
+==> Chapters: no
+==> Attachments: 1
+Track information follows ...
+---- Video track (TID:  0) ----------------------------------------------------
+Language: eng
+Codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+Profile: High
+Dimensions: 1920 x 1080
+Frame rate: 24000 / 1001
+---- Audio track (TID:  1) ----------------------------------------------------
+Language: jpn
+Codec: FLAC (Free Lossless Audio Codec)
+Channels: 5.1(side)
+Sample rate: 48000 Hz
+---- Subtitle track (TID:  2) -------------------------------------------------
+Name: Pretentious
+Language: eng
+Codec: ASS (Advanced SSA) subtitle
+-------------------------------------------------------------------------------
+Beginning process at Fri Oct 24 03:16:47 2025 ...
+Created work directory: /tmp/reanimate-nwfaikrj
+Transcoding video track (TID: 0) ...
+Transcoding (stereo downmixing) audio track (TID: 1) @ 128kbps ...
+Extracted subtitle track (TID: 2) ...
+Writing output ...
+Finished! Process took 0 hours, 3 minutes, and 14 seconds.
+Size difference: 9.5 MiB / 94.1 MiB = 0.101
+Examining input file '[ANE] Kara no Kyoukai - Cinema Intro 2 [BDRip 1080p x264 FLAC].mkv' ...
+==> Title: (none)
+==> Chapters: no
+==> Attachments: 1
+Track information follows ...
+---- Video track (TID:  0) ----------------------------------------------------
+Language: eng
+Codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+Profile: High
+Dimensions: 1920 x 1080
+Frame rate: 24000 / 1001
+---- Audio track (TID:  1) ----------------------------------------------------
+Language: jpn
+Codec: FLAC (Free Lossless Audio Codec)
+Channels: 5.1(side)
+Sample rate: 48000 Hz
+---- Subtitle track (TID:  2) -------------------------------------------------
+Name: Pretentious
+Language: eng
+Codec: ASS (Advanced SSA) subtitle
+-------------------------------------------------------------------------------
+Beginning process at Fri Oct 24 03:20:01 2025 ...
+Created work directory: /tmp/reanimate-rftcfwfj
+Transcoding video track (TID: 0) ...
+Transcoding (stereo downmixing) audio track (TID: 1) @ 128kbps ...
+Extracted subtitle track (TID: 2) ...
+Writing output ...
+Finished! Process took 0 hours, 4 minutes, and 20 seconds.
+Size difference: 15.2 MiB / 93.3 MiB = 0.163
+Examining input file '[ANE] Kara no Kyoukai - Cinema Intro 3 [BDRip 1080p x264 FLAC].mkv' ...
+==> Title: (none)
+==> Chapters: no
+==> Attachments: 1
+Track information follows ...
+---- Video track (TID:  0) ----------------------------------------------------
+Language: eng
+Codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+Profile: High
+Dimensions: 1920 x 1080
+Frame rate: 24000 / 1001
+---- Audio track (TID:  1) ----------------------------------------------------
+Language: jpn
+Codec: FLAC (Free Lossless Audio Codec)
+Channels: 5.1(side)
+Sample rate: 48000 Hz
+---- Subtitle track (TID:  2) -------------------------------------------------
+Name: Pretentious
+Language: eng
+Codec: ASS (Advanced SSA) subtitle
+-------------------------------------------------------------------------------
+Beginning process at Fri Oct 24 03:24:21 2025 ...
+Created work directory: /tmp/reanimate-w93iv_zw
+Transcoding video track (TID: 0) ...
+Transcoding (stereo downmixing) audio track (TID: 1) @ 128kbps ...
+Extracted subtitle track (TID: 2) ...
+Writing output ...
+Finished! Process took 0 hours, 4 minutes, and 49 seconds.
+Size difference: 18.0 MiB / 127.4 MiB = 0.141
+Examining input file '[ANE] Kara no Kyoukai - Cinema Intro 4v0 [BDRip 1080p x264 FLAC].mkv' ...
+==> Title: (none)
+==> Chapters: no
+==> Attachments: 2
+Track information follows ...
+---- Video track (TID:  0) ----------------------------------------------------
+Language: eng
+Codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+Profile: High
+Dimensions: 1920 x 1080
+Frame rate: 24000 / 1001
+---- Audio track (TID:  1) ----------------------------------------------------
+Language: jpn
+Codec: FLAC (Free Lossless Audio Codec)
+Channels: 5.1(side)
+Sample rate: 48000 Hz
+---- Subtitle track (TID:  2) -------------------------------------------------
+Name: gg-TakaJun, CGi
+Language: eng
+Codec: ASS (Advanced SSA) subtitle
+-------------------------------------------------------------------------------
+Beginning process at Fri Oct 24 03:29:11 2025 ...
+Created work directory: /tmp/reanimate-cx25s2ok
+Transcoding video track (TID: 0) ...
+Transcoding (stereo downmixing) audio track (TID: 1) @ 128kbps ...
+Extracted subtitle track (TID: 2) ...
+Writing output ...
+Finished! Process took 0 hours, 4 minutes, and 43 seconds.
+Size difference: 16.3 MiB / 120.3 MiB = 0.135
+Examining input file '[ANE] Kara no Kyoukai - Cinema Intro 5v0 [BDRip 1080p x264 FLAC].mkv' ...
+==> Title: (none)
+==> Chapters: no
+==> Attachments: 1
+Track information follows ...
+---- Video track (TID:  0) ----------------------------------------------------
+Language: eng
+Codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+Profile: High
+Dimensions: 1920 x 1080
+Frame rate: 24000 / 1001
+---- Audio track (TID:  1) ----------------------------------------------------
+Language: jpn
+Codec: FLAC (Free Lossless Audio Codec)
+Channels: 5.1(side)
+Sample rate: 48000 Hz
+---- Subtitle track (TID:  2) -------------------------------------------------
+Name: gg-TakaJun, CGi
+Language: eng
+Codec: ASS (Advanced SSA) subtitle
+-------------------------------------------------------------------------------
+Beginning process at Fri Oct 24 03:33:54 2025 ...
+Created work directory: /tmp/reanimate-dtp2n5l8
+Transcoding video track (TID: 0) ...
+Transcoding (stereo downmixing) audio track (TID: 1) @ 128kbps ...
+Extracted subtitle track (TID: 2) ...
+Writing output ...
+Finished! Process took 0 hours, 3 minutes, and 52 seconds.
+Size difference: 9.8 MiB / 106.6 MiB = 0.092
+Examining input file '[ANE] Kara no Kyoukai - Cinema Intro 6 [BDRip 1080p x264 FLAC].mkv' ...
+==> Title: (none)
+==> Chapters: no
+==> Attachments: 2
+Track information follows ...
+---- Video track (TID:  0) ----------------------------------------------------
+Language: eng
+Codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+Profile: High
+Dimensions: 1920 x 1080
+Frame rate: 24000 / 1001
+---- Audio track (TID:  1) ----------------------------------------------------
+Language: jpn
+Codec: FLAC (Free Lossless Audio Codec)
+Channels: 5.1(side)
+Sample rate: 48000 Hz
+---- Subtitle track (TID:  2) -------------------------------------------------
+Name: Pretentious
+Language: eng
+Codec: ASS (Advanced SSA) subtitle
+-------------------------------------------------------------------------------
+Beginning process at Fri Oct 24 03:37:47 2025 ...
+Created work directory: /tmp/reanimate-0kvhvtqb
+Transcoding video track (TID: 0) ...
+Transcoding (stereo downmixing) audio track (TID: 1) @ 128kbps ...
+Extracted subtitle track (TID: 2) ...
+Writing output ...
+Finished! Process took 0 hours, 4 minutes, and 16 seconds.
+Size difference: 10.3 MiB / 102.3 MiB = 0.100
+Examining input file '[ANE] Kara no Kyoukai - Cinema Intro 7v0 [BDRip 1080p x264 FLAC].mkv' ...
+==> Title: (none)
+==> Chapters: no
+==> Attachments: 1
+Track information follows ...
+---- Video track (TID:  0) ----------------------------------------------------
+Language: eng
+Codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+Profile: High
+Dimensions: 1920 x 1080
+Frame rate: 24000 / 1001
+---- Audio track (TID:  1) ----------------------------------------------------
+Language: jpn
+Codec: FLAC (Free Lossless Audio Codec)
+Channels: 5.1(side)
+Sample rate: 48000 Hz
+---- Subtitle track (TID:  2) -------------------------------------------------
+Name: gg-TakaJun, CGi
+Language: eng
+Codec: ASS (Advanced SSA) subtitle
+-------------------------------------------------------------------------------
+Beginning process at Fri Oct 24 03:42:03 2025 ...
+Created work directory: /tmp/reanimate-i2ss_arn
+Transcoding video track (TID: 0) ...
+Transcoding (stereo downmixing) audio track (TID: 1) @ 128kbps ...
+Extracted subtitle track (TID: 2) ...
+Writing output ...
+Finished! Process took 0 hours, 6 minutes, and 58 seconds.
+Size difference: 17.4 MiB / 124.3 MiB = 0.140
