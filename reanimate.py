@@ -689,15 +689,13 @@ def get_default_track_flag(cli, tracks, track):
 def get_track_tags(cli, tracks, track, work_path):
     """Get tags for output track."""
     if cli.subber is not None and isinstance(track, MultimediaExtractor.SubtitleTrack):
-        tids = cli.tracks if cli.tracks else range(len(tracks))
-        subtitle_tids = [tid for tid in tids if isinstance(tracks[tid], MultimediaExtractor.SubtitleTrack)]
-        index = subtitle_tids.index(track.tid)
-        if index < len(cli.subber):
+        i = [t.tid for t in tracks if isinstance(t, MultimediaExtractor.SubtitleTrack)].index(track.tid)
+        if i < len(cli.subber):
             if cli.movie_tags:
                 tags = MatroskaTags("MOVIE", 50)
             else:
                 tags = MatroskaTags("SEASON", 60)
-            tags.add_entry("WRITTEN_BY", cli.subber[index])
+            tags.add_entry("WRITTEN_BY", cli.subber[i])
             path = work_path / f"tags_{track.tid:02d}.xml"
             path.write_text(tags.finish(), encoding="utf-8")
             return ["--tags", f"0:{path}"]
@@ -720,11 +718,9 @@ def get_video_display_settings(cli, track):
 
 def get_audio_settings(cli, tracks, track):
     """Get audio settings for track."""
-    tids = cli.tracks if cli.tracks else range(len(tracks))
-    audio_tids = [tid for tid in tids if isinstance(tracks[tid], MultimediaExtractor.AudioTrack)]
-    index = audio_tids.index(track.tid)
-    if cli.audio_bitrate and index < len(cli.audio_bitrate):
-        bitrate = cli.audio_bitrate[index]
+    i = [t.tid for t in tracks if isinstance(t, MultimediaExtractor.AudioTrack)].index(track.tid)
+    if cli.audio_bitrate and i < len(cli.audio_bitrate):
+        bitrate = cli.audio_bitrate[i]
     elif track.channels == 1:
         bitrate = 96
     elif track.channels == 2 or track.tid in cli.downmix_stereo:
